@@ -1,1 +1,7 @@
-#
+#NexOps Tool
+sonarqube.lumigame.com sonarqube_nodes
+npm.lumigame.com verdacio_npm_nodes
+sentry.lumigame.com sentry_web_nodes
+deploy.lumigame.com rocketor_nodes
+deploymentapi.lumigame.com nexops_deploymentapi_nodes
+logs.lumigame.com elk_nodes
