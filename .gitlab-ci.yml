@@ -2,3 +2,4 @@ include:
   - project: "ci/common-ci"
     ref: master
     file: "haproxy-ci/haproxy.gitlab-ci.yml"
+  
