@@ -1,4 +1,4 @@
-#domainname           #backendname
+#NexOps
 scdeployapi.starixplay.com nexops_deploymentapi_nodes
 scdeployapi2.starixplay.com nexops_deploymentapi_nodes
 scsentry.sgamesuat.com nexops_sentry_nodes
