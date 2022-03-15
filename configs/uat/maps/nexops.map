@@ -1,5 +1,5 @@
 #NexOps
-scdeployapi.starixplay.com nexops_deploymentapi_nodes
-scdeployapi2.starixplay.com nexops_deploymentapi_nodes
-scsentry.sgamesuat.com nexops_sentry_nodes
-l2haproxy.sgamesuat.com  nexops_whoami_api_nodes
+scdeployapi.starixplay.com nexops_nexops_deployment_api_be
+scdeployapi2.starixplay.com nexops_nexops_deployment_api_be
+scsentry.sgamesuat.com sentry_web_uat3_be
+l2haproxy.sgamesuat.com empty_backend_nodes
