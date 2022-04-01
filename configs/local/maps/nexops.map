@@ -1,4 +1,5 @@
 #NexOps Tool
+haproxy.lumigame.com default_backend_nodes
 sonarqube.lumigame.com sonarqube_nodes
 npm.lumigame.com verdacio_npm_nodes
 sentry.lumigame.com sentry_web_nodes
