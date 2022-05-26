@@ -7,3 +7,4 @@ deploy.lumigame.com rocketor_nodes
 deploymentapi.lumigame.com nexops_deploymentapi_nodes
 logs.lumigame.com elk_nodes
 nexops-testing.lumigame.com nexops_backend_for_testing_fe
+harbor.lumigame.com nexops_harbor_be_local
