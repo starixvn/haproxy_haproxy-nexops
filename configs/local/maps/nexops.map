@@ -1,4 +1,6 @@
 #NexOps Tool
+minio.lumigame.com nexops_minio_nodes
+minio-api.lumigame.com nexops_minio_api_nodes
 haproxy.lumigame.com empty_backend_nodes
 sonarqube.lumigame.com sonarqube_nodes
 npm.lumigame.com verdacio_npm_nodes
