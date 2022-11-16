@@ -1,3 +1,4 @@
 #NexOps
 deployment-api.sportsfun.app nexops_deploymentapi_nodes
 haproxy.sportsfun.app nexops_whoami_api_nodes
+portainer.sportsfun.app nexops_portainer_nodes
