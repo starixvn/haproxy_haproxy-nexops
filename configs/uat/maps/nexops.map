@@ -3,3 +3,4 @@ scdeployapi.starixplay.com nexops_nexops_deployment_api_be
 scdeployapi2.starixplay.com nexops_nexops_deployment_api_be
 scsentry.sgamesuat.com sentry_web_uat3_be
 l2haproxy.sgamesuat.com empty_backend_nodes
+tolgee.sgamesuat.com tolgee_nodes
