@@ -6,6 +6,7 @@ sonarqube.lumigame.com sonarqube_nodes
 npm.lumigame.com verdacio_npm_nodes
 sentry.lumigame.com sentry_web_nodes
 deploy.lumigame.com rocketor_nodes
+rocketor-api.lumigame.com rocketor_api_nodes
 deploymentapi.lumigame.com nexops_deploymentapi_nodes
 logs.lumigame.com elk_nodes
 nexops-testing.lumigame.com nexops_backend_for_testing_fe
