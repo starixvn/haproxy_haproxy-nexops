@@ -2,3 +2,4 @@
 haproxy.sabagame.com default_backend_nodes
 lumhub.starixplay.com nexops_harbor_prod_be
 scregistry.starixplay.com nexops_harbor_prod_be
+tolgee.sabagame.com nexops_tolgee_be
