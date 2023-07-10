@@ -8,6 +8,7 @@ sentry.lumigame.com sentry_web_nodes
 deploy.lumigame.com rocketor_nodes
 rocketor-api.lumigame.com rocketor_api_nodes
 deploymentapi.lumigame.com nexops_deploymentapi_nodes
+deploymentapi-new.lumigame.com nexops_deploymentapi_new_nodes
 logs.lumigame.com elk_nodes
 nexops-testing.lumigame.com nexops_backend_for_testing_fe
 harbor2.lumigame.com nexops_harbor2_be_local
