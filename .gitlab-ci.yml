@@ -1,16 +1,12 @@
 include:
   - project: "ci/common-ci"
-    ref: main
+    ref: multi-clusters
     file: "haproxy-ci/haproxy.gitlab-ci.yml"
   - project: "ci/common-ci"
-    ref: main
     file: "haproxy-ci/haproxy.sglocal.gitlab-ci.yml"
   - project: "ci/common-ci"
-    ref: main
     file: "haproxy-ci/haproxy.awslocal.gitlab-ci.yml"
   - project: "ci/common-ci"
-    ref: main
     file: "haproxy-ci/haproxy.awsuat.gitlab-ci.yml"
   - project: "ci/common-ci"
-    ref: main
     file: "haproxy-ci/haproxy.awsprod.gitlab-ci.yml"
