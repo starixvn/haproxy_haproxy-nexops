@@ -1,4 +1,4 @@
-#NexOps # test uat-sit cfg
+###NexOps # test uat-sit cfg
 scdeployapi.starixplay.com nexops_nexops_deployment_api_be
 scdeployapi2.starixplay.com nexops_nexops_deployment_api_be
 scsentry.sgamesuat.com sentry_web_uat3_be
