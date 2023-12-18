@@ -19,3 +19,4 @@ tolgee.lumigame.com nexops_tolgee_nodes
 portainer.lumigame.com nexops_portainer_portainer_be
 xx.lumigame.com nexops_maubinh_be
 passbolt.lumigame.com nexops_passbolt_be
+jaeger-collector.lumigame.com nexops_jaeger_collector_be
