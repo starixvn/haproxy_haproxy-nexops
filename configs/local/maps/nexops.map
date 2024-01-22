@@ -21,3 +21,4 @@ xx.lumigame.com nexops_maubinh_be
 passbolt.lumigame.com nexops_passbolt_be
 jaeger-collector.lumigame.com nexops_jaeger_collector_be
 jaeger-elasticsearch.lumigame.com nexops_jaeger_elasticsearch_be
+jaeger.lumigame.com nexops_jaeger_local_be
