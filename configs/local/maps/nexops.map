@@ -5,7 +5,7 @@ minio-api.lumigame.com nexops_minio_api_nodes
 haproxy.lumigame.com empty_backend_nodes
 sonarqube.lumigame.com sonarqube_nodes
 npm2.lumigame.com verdacio_npm_nodes
-npm.lumigame.com verdacio_npm_nodes
+#npm.lumigame.com verdacio_npm_nodes
 sentry.lumigame.com sentry_web_nodes
 deploy.lumigame.com rocketor_nodes
 rocketor-api.lumigame.com rocketor_api_nodes
