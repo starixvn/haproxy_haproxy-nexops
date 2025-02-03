@@ -1,7 +1,5 @@
 #NexOps Tool
 whoami.lumigame.com nexops_deploymentapi_nodes
-minio.lumigame.com nexops_minio_nodes
-minio-api.lumigame.com nexops_minio_api_nodes
 haproxy.lumigame.com empty_backend_nodes
 sonarqube.lumigame.com sonarqube_nodes
 npm2.lumigame.com verdacio_npm_nodes
