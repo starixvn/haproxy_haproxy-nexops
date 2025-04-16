@@ -23,4 +23,4 @@ jaeger-collector.lumigame.com nexops_jaeger_collector_be
 jaeger-elasticsearch.lumigame.com nexops_jaeger_elasticsearch_be
 jaeger.lumigame.com nexops_jaeger_local_be
 plane.lumigame.com nexops_plane_local_be
-#####
+######
